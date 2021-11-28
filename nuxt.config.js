@@ -50,7 +50,7 @@ export default {
   apollo: {
     clientConfigs: {
       default: {
-        httpEndpoint: 'http://localhost:3000/graphql',
+        httpEndpoint: 'https://venia.magento.com/graphql',
       }
     }
   },
